@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Exalted\LongVision.Business\bin\Debug\netcoreapp3.1\LongVision.Business.deps.json
+C:\Users\Lenovo\source\repos\Exalted\LongVision.Business\bin\Debug\netcoreapp3.1\LongVision.Business.dll
+C:\Users\Lenovo\source\repos\Exalted\LongVision.Business\bin\Debug\netcoreapp3.1\LongVision.Business.pdb
+C:\Users\Lenovo\source\repos\Exalted\LongVision.Business\obj\Debug\netcoreapp3.1\LongVision.Business.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Exalted\LongVision.Business\obj\Debug\netcoreapp3.1\LongVision.Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Exalted\LongVision.Business\obj\Debug\netcoreapp3.1\LongVision.Business.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Exalted\LongVision.Business\obj\Debug\netcoreapp3.1\LongVision.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Exalted\LongVision.Business\obj\Debug\netcoreapp3.1\LongVision.Business.dll
+C:\Users\Lenovo\source\repos\Exalted\LongVision.Business\obj\Debug\netcoreapp3.1\LongVision.Business.pdb
