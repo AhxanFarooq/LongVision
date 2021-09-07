@@ -1,0 +1,12 @@
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\bin\Debug\net5.0\LongVision.Domain.deps.json
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\bin\Debug\net5.0\LongVision.Domain.dll
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\bin\Debug\net5.0\ref\LongVision.Domain.dll
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\bin\Debug\net5.0\LongVision.Domain.pdb
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\obj\Debug\net5.0\LongVision.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\obj\Debug\net5.0\LongVision.Domain.AssemblyInfoInputs.cache
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\obj\Debug\net5.0\LongVision.Domain.AssemblyInfo.cs
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\obj\Debug\net5.0\LongVision.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\obj\Debug\net5.0\LongVision.Domain.dll
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\obj\Debug\net5.0\ref\LongVision.Domain.dll
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\obj\Debug\net5.0\LongVision.Domain.pdb
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Domain\obj\Debug\net5.0\LongVision.Domain.csproj.AssemblyReference.cache

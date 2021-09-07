@@ -1,0 +1,12 @@
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\obj\Debug\net5.0\LongVision.Business.csproj.AssemblyReference.cache
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\obj\Debug\net5.0\LongVision.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\obj\Debug\net5.0\LongVision.Business.AssemblyInfoInputs.cache
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\obj\Debug\net5.0\LongVision.Business.AssemblyInfo.cs
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\obj\Debug\net5.0\LongVision.Business.csproj.CoreCompileInputs.cache
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\bin\Debug\net5.0\LongVision.Business.deps.json
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\bin\Debug\net5.0\LongVision.Business.dll
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\bin\Debug\net5.0\ref\LongVision.Business.dll
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\bin\Debug\net5.0\LongVision.Business.pdb
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\obj\Debug\net5.0\LongVision.Business.dll
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\obj\Debug\net5.0\ref\LongVision.Business.dll
+C:\Users\ChAhsan\source\repos\LongVision.Api\LongVision.Business\obj\Debug\net5.0\LongVision.Business.pdb
